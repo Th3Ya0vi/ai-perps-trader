@@ -10,7 +10,11 @@ Inspired by [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) — rebuil
 
 ## Demo
 
-**Autonomous market selection + trade decisions**
+**Live terminal dashboard** (`python dashboard.py`)
+
+![Dashboard](assets/demo_dashboard.svg)
+
+**Autonomous market selection + trade decisions** (`python run.py`)
 
 ![Trade Decisions](assets/demo_decisions.svg)
 
@@ -73,27 +77,28 @@ cp .env.example .env
 
 ## Running
 
-**Auto mode** — scans all markets and picks the best 5:
+### Live dashboard (recommended)
+
 ```bash
-python run.py
+python dashboard.py               # auto-select markets, $1000 default
+python dashboard.py --portfolio 5000
+python dashboard.py --markets BTC,ETH,SOL   # override market selection
 ```
 
-**Manual mode** — analyze specific markets:
+Keybindings inside the dashboard:
+- `r` — re-run the full pipeline
+- `q` — quit
+
+### CLI mode
+
 ```bash
-python run.py --markets BTC,ETH,SOL,WIF,HYPE
+python run.py                            # auto-select, table output
+python run.py --markets BTC,ETH,SOL,WIF  # override markets
+python run.py --portfolio 5000           # set account size
+python run.py --output json              # machine-readable
 ```
 
-**Set portfolio size** (used for position sizing):
-```bash
-python run.py --portfolio 5000
-```
-
-**JSON output** (for piping / scripting):
-```bash
-python run.py --output json
-```
-
-After each run, decisions are saved to `trade_decisions.json`.
+After each CLI run, decisions are saved to `trade_decisions.json`.
 
 ---
 

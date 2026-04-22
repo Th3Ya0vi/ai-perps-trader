@@ -20,9 +20,10 @@ class TradeDecision(TypedDict):
 
 
 class AgentState(TypedDict):
-    markets: list[str]
-    market_data: dict                                           # symbol → market snapshot
-    analyst_signals: Annotated[list[AnalystSignal], operator.add]  # accumulates across analyst nodes
-    risk_limits: dict                                          # symbol → {max_size_usd, max_leverage}
+    markets: list[str]              # symbols selected for deep analysis
+    market_data: dict               # symbol → market snapshot (price, funding, OI, volume)
+    analyst_signals: Annotated[list[AnalystSignal], operator.add]
+    risk_limits: dict               # symbol → {max_size_usd, max_leverage}
     trade_decisions: list[TradeDecision]
-    portfolio_value: float                                     # total USDC in perps account
+    portfolio_value: float          # total USDC in perps account
+    macro_context: dict             # F&G, regime, selection rationale

@@ -12,25 +12,39 @@ def _post(payload: dict) -> Any:
         return r.json()
 
 
+def _parse_market(asset_meta: dict, ctx: dict) -> dict:
+    return {
+        "symbol": asset_meta["name"],
+        "price": float(ctx["markPx"]),
+        "funding_rate_8h": float(ctx["funding"]),
+        "open_interest": float(ctx["openInterest"]),
+        "volume_24h": float(ctx.get("dayNtlVlm", 0)),
+        "max_leverage": int(asset_meta.get("maxLeverage", 20)),
+    }
+
+
+def get_all_markets(min_volume_usd: float = 1_000_000) -> list[dict]:
+    """Returns all Hyperliquid perp markets with volume >= min_volume_usd, sorted by volume."""
+    data = _post({"type": "metaAndAssetCtxs"})
+    meta_universe, ctxs = data[0]["universe"], data[1]
+    markets = [
+        _parse_market(m, c)
+        for m, c in zip(meta_universe, ctxs)
+        if float(c.get("dayNtlVlm", 0)) >= min_volume_usd
+    ]
+    markets.sort(key=lambda x: x["volume_24h"], reverse=True)
+    return markets
+
+
 def get_markets(symbols: list[str]) -> dict:
     """Fetch current price, funding rate, OI, and volume for requested symbols."""
     data = _post({"type": "metaAndAssetCtxs"})
     meta_universe, ctxs = data[0]["universe"], data[1]
-
-    result = {}
-    for asset_meta, ctx in zip(meta_universe, ctxs):
-        name = asset_meta["name"]
-        if name not in symbols:
-            continue
-        result[name] = {
-            "symbol": name,
-            "price": float(ctx["markPx"]),
-            "funding_rate_8h": float(ctx["funding"]),
-            "open_interest": float(ctx["openInterest"]),
-            "volume_24h": float(ctx.get("dayNtlVlm", 0)),
-            "max_leverage": int(asset_meta.get("maxLeverage", 20)),
-        }
-    return result
+    return {
+        m["name"]: _parse_market(m, c)
+        for m, c in zip(meta_universe, ctxs)
+        if m["name"] in symbols
+    }
 
 
 def get_candles(symbol: str, interval: str = "1h", lookback_hours: int = 72) -> list[dict]:

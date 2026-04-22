@@ -1,4 +1,5 @@
 import json
+from src.utils import parse_json
 import os
 from langchain_anthropic import ChatAnthropic
 from langchain_core.messages import HumanMessage
@@ -56,7 +57,7 @@ Respond with ONLY valid JSON, no markdown fences:
 
         try:
             resp = llm.invoke([HumanMessage(content=prompt)])
-            data = json.loads(resp.content.strip())
+            data = parse_json(resp.content)
             signals.append(
                 AnalystSignal(
                     agent="funding_rate_analyst",

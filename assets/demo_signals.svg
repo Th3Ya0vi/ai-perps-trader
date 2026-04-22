@@ -1,0 +1,279 @@
+<svg class="rich-terminal" viewBox="0 0 1360 1367.6" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generated with Rich https://www.textualize.io -->
+    <style>
+
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Regular"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Regular.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Regular.woff") format("woff");
+        font-style: normal;
+        font-weight: 400;
+    }
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Bold"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Bold.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Bold.woff") format("woff");
+        font-style: bold;
+        font-weight: 700;
+    }
+
+    .terminal-2189680796-matrix {
+        font-family: Fira Code, monospace;
+        font-size: 20px;
+        line-height: 24.4px;
+        font-variant-east-asian: full-width;
+    }
+
+    .terminal-2189680796-title {
+        font-size: 18px;
+        font-weight: bold;
+        font-family: arial;
+    }
+
+    .terminal-2189680796-r1 { fill: #c5c8c6 }
+.terminal-2189680796-r2 { fill: #68a0b3;font-weight: bold }
+.terminal-2189680796-r3 { fill: #868887 }
+.terminal-2189680796-r4 { fill: #c5c8c6;font-style: italic; }
+.terminal-2189680796-r5 { fill: #68a0b3;font-weight: bold;font-style: italic; }
+.terminal-2189680796-r6 { fill: #868887;font-style: italic; }
+.terminal-2189680796-r7 { fill: #c5c8c6;font-weight: bold }
+.terminal-2189680796-r8 { fill: #d0b344;font-weight: bold }
+.terminal-2189680796-r9 { fill: #98a84b;font-weight: bold }
+.terminal-2189680796-r10 { fill: #cc555a;font-weight: bold }
+    </style>
+
+    <defs>
+    <clipPath id="terminal-2189680796-clip-terminal">
+      <rect x="0" y="0" width="1341.0" height="1316.6" />
+    </clipPath>
+    <clipPath id="terminal-2189680796-line-0">
+    <rect x="0" y="1.5" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-1">
+    <rect x="0" y="25.9" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-2">
+    <rect x="0" y="50.3" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-3">
+    <rect x="0" y="74.7" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-4">
+    <rect x="0" y="99.1" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-5">
+    <rect x="0" y="123.5" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-6">
+    <rect x="0" y="147.9" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-7">
+    <rect x="0" y="172.3" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-8">
+    <rect x="0" y="196.7" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-9">
+    <rect x="0" y="221.1" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-10">
+    <rect x="0" y="245.5" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-11">
+    <rect x="0" y="269.9" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-12">
+    <rect x="0" y="294.3" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-13">
+    <rect x="0" y="318.7" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-14">
+    <rect x="0" y="343.1" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-15">
+    <rect x="0" y="367.5" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-16">
+    <rect x="0" y="391.9" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-17">
+    <rect x="0" y="416.3" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-18">
+    <rect x="0" y="440.7" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-19">
+    <rect x="0" y="465.1" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-20">
+    <rect x="0" y="489.5" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-21">
+    <rect x="0" y="513.9" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-22">
+    <rect x="0" y="538.3" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-23">
+    <rect x="0" y="562.7" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-24">
+    <rect x="0" y="587.1" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-25">
+    <rect x="0" y="611.5" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-26">
+    <rect x="0" y="635.9" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-27">
+    <rect x="0" y="660.3" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-28">
+    <rect x="0" y="684.7" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-29">
+    <rect x="0" y="709.1" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-30">
+    <rect x="0" y="733.5" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-31">
+    <rect x="0" y="757.9" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-32">
+    <rect x="0" y="782.3" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-33">
+    <rect x="0" y="806.7" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-34">
+    <rect x="0" y="831.1" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-35">
+    <rect x="0" y="855.5" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-36">
+    <rect x="0" y="879.9" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-37">
+    <rect x="0" y="904.3" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-38">
+    <rect x="0" y="928.7" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-39">
+    <rect x="0" y="953.1" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-40">
+    <rect x="0" y="977.5" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-41">
+    <rect x="0" y="1001.9" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-42">
+    <rect x="0" y="1026.3" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-43">
+    <rect x="0" y="1050.7" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-44">
+    <rect x="0" y="1075.1" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-45">
+    <rect x="0" y="1099.5" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-46">
+    <rect x="0" y="1123.9" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-47">
+    <rect x="0" y="1148.3" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-48">
+    <rect x="0" y="1172.7" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-49">
+    <rect x="0" y="1197.1" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-50">
+    <rect x="0" y="1221.5" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-51">
+    <rect x="0" y="1245.9" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2189680796-line-52">
+    <rect x="0" y="1270.3" width="1342" height="24.65"/>
+            </clipPath>
+    </defs>
+
+    <rect fill="#292929" stroke="rgba(255,255,255,0.35)" stroke-width="1" x="1" y="1" width="1358" height="1365.6" rx="8"/><text class="terminal-2189680796-title" fill="#c5c8c6" text-anchor="middle" x="679" y="27">AI&#160;Perps&#160;Trader&#160;—&#160;Analyst&#160;Breakdown</text>
+            <g transform="translate(26,22)">
+            <circle cx="0" cy="0" r="7" fill="#ff5f57"/>
+            <circle cx="22" cy="0" r="7" fill="#febc2e"/>
+            <circle cx="44" cy="0" r="7" fill="#28c840"/>
+            </g>
+        
+    <g transform="translate(9, 41)" clip-path="url(#terminal-2189680796-clip-terminal)">
+    
+    <g class="terminal-2189680796-matrix">
+    <text class="terminal-2189680796-r1" x="1342" y="20" textLength="12.2" clip-path="url(#terminal-2189680796-line-0)">
+</text><text class="terminal-2189680796-r2" x="0" y="44.4" textLength="207.4" clip-path="url(#terminal-2189680796-line-1)">&#160;&#160;AI&#160;Perps&#160;Trader</text><text class="terminal-2189680796-r3" x="244" y="44.4" textLength="292.8" clip-path="url(#terminal-2189680796-line-1)">Analyst&#160;Signal&#160;Breakdown</text><text class="terminal-2189680796-r1" x="1342" y="44.4" textLength="12.2" clip-path="url(#terminal-2189680796-line-1)">
+</text><text class="terminal-2189680796-r1" x="1342" y="68.8" textLength="12.2" clip-path="url(#terminal-2189680796-line-2)">
+</text><text class="terminal-2189680796-r5" x="573.4" y="93.2" textLength="36.6" clip-path="url(#terminal-2189680796-line-3)">BTC</text><text class="terminal-2189680796-r6" x="634.4" y="93.2" textLength="122" clip-path="url(#terminal-2189680796-line-3)">$78,746.00</text><text class="terminal-2189680796-r1" x="1342" y="93.2" textLength="12.2" clip-path="url(#terminal-2189680796-line-3)">
+</text><text class="terminal-2189680796-r1" x="1342" y="117.6" textLength="12.2" clip-path="url(#terminal-2189680796-line-4)">
+</text><text class="terminal-2189680796-r7" x="24.4" y="142" textLength="195.2" clip-path="url(#terminal-2189680796-line-5)">Analyst&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r7" x="256.2" y="142" textLength="122" clip-path="url(#terminal-2189680796-line-5)">Signal&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r7" x="414.8" y="142" textLength="85.4" clip-path="url(#terminal-2189680796-line-5)">&#160;&#160;&#160;Conf</text><text class="terminal-2189680796-r7" x="536.8" y="142" textLength="780.8" clip-path="url(#terminal-2189680796-line-5)">Reasoning&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="142" textLength="12.2" clip-path="url(#terminal-2189680796-line-5)">
+</text><text class="terminal-2189680796-r3" x="0" y="166.4" textLength="1342" clip-path="url(#terminal-2189680796-line-6)">&#160;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━&#160;</text><text class="terminal-2189680796-r1" x="1342" y="166.4" textLength="12.2" clip-path="url(#terminal-2189680796-line-6)">
+</text><text class="terminal-2189680796-r3" x="24.4" y="190.8" textLength="195.2" clip-path="url(#terminal-2189680796-line-7)">Funding&#160;Rate&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r8" x="256.2" y="190.8" textLength="85.4" clip-path="url(#terminal-2189680796-line-7)">NEUTRAL</text><text class="terminal-2189680796-r1" x="414.8" y="190.8" textLength="85.4" clip-path="url(#terminal-2189680796-line-7)">&#160;&#160;&#160;&#160;35%</text><text class="terminal-2189680796-r1" x="536.8" y="190.8" textLength="780.8" clip-path="url(#terminal-2189680796-line-7)">The&#160;annualized&#160;funding&#160;rate&#160;of&#160;-2.49%&#160;falls&#160;squarely&#160;within&#160;the&#160;</text><text class="terminal-2189680796-r1" x="1342" y="190.8" textLength="12.2" clip-path="url(#terminal-2189680796-line-7)">
+</text><text class="terminal-2189680796-r1" x="536.8" y="215.2" textLength="780.8" clip-path="url(#terminal-2189680796-line-8)">neutral/normal&#160;carry&#160;range&#160;of&#160;-10%&#160;t…&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="215.2" textLength="12.2" clip-path="url(#terminal-2189680796-line-8)">
+</text><text class="terminal-2189680796-r1" x="1342" y="239.6" textLength="12.2" clip-path="url(#terminal-2189680796-line-9)">
+</text><text class="terminal-2189680796-r3" x="24.4" y="264" textLength="195.2" clip-path="url(#terminal-2189680796-line-10)">Open&#160;Interest&#160;&#160;&#160;</text><text class="terminal-2189680796-r9" x="256.2" y="264" textLength="85.4" clip-path="url(#terminal-2189680796-line-10)">BULLISH</text><text class="terminal-2189680796-r1" x="414.8" y="264" textLength="85.4" clip-path="url(#terminal-2189680796-line-10)">&#160;&#160;&#160;&#160;62%</text><text class="terminal-2189680796-r1" x="536.8" y="264" textLength="780.8" clip-path="url(#terminal-2189680796-line-10)">Rising&#160;price&#160;(+1.61%)&#160;accompanied&#160;by&#160;rising&#160;open&#160;interest&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="264" textLength="12.2" clip-path="url(#terminal-2189680796-line-10)">
+</text><text class="terminal-2189680796-r1" x="536.8" y="288.4" textLength="780.8" clip-path="url(#terminal-2189680796-line-11)">suggests&#160;new&#160;longs&#160;are&#160;entering&#160;the&#160;market…&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="288.4" textLength="12.2" clip-path="url(#terminal-2189680796-line-11)">
+</text><text class="terminal-2189680796-r1" x="1342" y="312.8" textLength="12.2" clip-path="url(#terminal-2189680796-line-12)">
+</text><text class="terminal-2189680796-r3" x="24.4" y="337.2" textLength="195.2" clip-path="url(#terminal-2189680796-line-13)">Technical&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r9" x="256.2" y="337.2" textLength="85.4" clip-path="url(#terminal-2189680796-line-13)">BULLISH</text><text class="terminal-2189680796-r1" x="414.8" y="337.2" textLength="85.4" clip-path="url(#terminal-2189680796-line-13)">&#160;&#160;&#160;&#160;68%</text><text class="terminal-2189680796-r1" x="536.8" y="337.2" textLength="780.8" clip-path="url(#terminal-2189680796-line-13)">Price&#160;is&#160;trading&#160;above&#160;both&#160;EMAs&#160;with&#160;a&#160;bullish&#160;EMA20/EMA50&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="337.2" textLength="12.2" clip-path="url(#terminal-2189680796-line-13)">
+</text><text class="terminal-2189680796-r1" x="536.8" y="361.6" textLength="780.8" clip-path="url(#terminal-2189680796-line-14)">crossover&#160;confirming&#160;an&#160;uptrend,&#160;and&#160;RSI…&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="361.6" textLength="12.2" clip-path="url(#terminal-2189680796-line-14)">
+</text><text class="terminal-2189680796-r1" x="1342" y="386" textLength="12.2" clip-path="url(#terminal-2189680796-line-15)">
+</text><text class="terminal-2189680796-r3" x="24.4" y="410.4" textLength="195.2" clip-path="url(#terminal-2189680796-line-16)">Sentiment&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r10" x="256.2" y="410.4" textLength="85.4" clip-path="url(#terminal-2189680796-line-16)">BEARISH</text><text class="terminal-2189680796-r1" x="414.8" y="410.4" textLength="85.4" clip-path="url(#terminal-2189680796-line-16)">&#160;&#160;&#160;&#160;62%</text><text class="terminal-2189680796-r1" x="536.8" y="410.4" textLength="780.8" clip-path="url(#terminal-2189680796-line-16)">Despite&#160;strong&#160;community&#160;bullish&#160;sentiment&#160;(86%)&#160;and&#160;positive&#160;&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="410.4" textLength="12.2" clip-path="url(#terminal-2189680796-line-16)">
+</text><text class="terminal-2189680796-r1" x="536.8" y="434.8" textLength="780.8" clip-path="url(#terminal-2189680796-line-17)">short-term&#160;price&#160;action&#160;(+5%),&#160;Polymar…&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="434.8" textLength="12.2" clip-path="url(#terminal-2189680796-line-17)">
+</text><text class="terminal-2189680796-r1" x="1342" y="459.2" textLength="12.2" clip-path="url(#terminal-2189680796-line-18)">
+</text><text class="terminal-2189680796-r1" x="1342" y="483.6" textLength="12.2" clip-path="url(#terminal-2189680796-line-19)">
+</text><text class="terminal-2189680796-r5" x="585.6" y="508" textLength="36.6" clip-path="url(#terminal-2189680796-line-20)">ETH</text><text class="terminal-2189680796-r6" x="646.6" y="508" textLength="109.8" clip-path="url(#terminal-2189680796-line-20)">$2,399.70</text><text class="terminal-2189680796-r1" x="1342" y="508" textLength="12.2" clip-path="url(#terminal-2189680796-line-20)">
+</text><text class="terminal-2189680796-r1" x="1342" y="532.4" textLength="12.2" clip-path="url(#terminal-2189680796-line-21)">
+</text><text class="terminal-2189680796-r7" x="24.4" y="556.8" textLength="195.2" clip-path="url(#terminal-2189680796-line-22)">Analyst&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r7" x="256.2" y="556.8" textLength="122" clip-path="url(#terminal-2189680796-line-22)">Signal&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r7" x="414.8" y="556.8" textLength="85.4" clip-path="url(#terminal-2189680796-line-22)">&#160;&#160;&#160;Conf</text><text class="terminal-2189680796-r7" x="536.8" y="556.8" textLength="780.8" clip-path="url(#terminal-2189680796-line-22)">Reasoning&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="556.8" textLength="12.2" clip-path="url(#terminal-2189680796-line-22)">
+</text><text class="terminal-2189680796-r3" x="0" y="581.2" textLength="1342" clip-path="url(#terminal-2189680796-line-23)">&#160;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━&#160;</text><text class="terminal-2189680796-r1" x="1342" y="581.2" textLength="12.2" clip-path="url(#terminal-2189680796-line-23)">
+</text><text class="terminal-2189680796-r3" x="24.4" y="605.6" textLength="195.2" clip-path="url(#terminal-2189680796-line-24)">Funding&#160;Rate&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r8" x="256.2" y="605.6" textLength="85.4" clip-path="url(#terminal-2189680796-line-24)">NEUTRAL</text><text class="terminal-2189680796-r1" x="414.8" y="605.6" textLength="85.4" clip-path="url(#terminal-2189680796-line-24)">&#160;&#160;&#160;&#160;50%</text><text class="terminal-2189680796-r1" x="536.8" y="605.6" textLength="780.8" clip-path="url(#terminal-2189680796-line-24)">The&#160;annualized&#160;funding&#160;rate&#160;of&#160;0.45%&#160;falls&#160;squarely&#160;within&#160;the&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="605.6" textLength="12.2" clip-path="url(#terminal-2189680796-line-24)">
+</text><text class="terminal-2189680796-r1" x="536.8" y="630" textLength="780.8" clip-path="url(#terminal-2189680796-line-25)">neutral/normal&#160;carry&#160;range&#160;of&#160;-10%&#160;to…&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="630" textLength="12.2" clip-path="url(#terminal-2189680796-line-25)">
+</text><text class="terminal-2189680796-r1" x="1342" y="654.4" textLength="12.2" clip-path="url(#terminal-2189680796-line-26)">
+</text><text class="terminal-2189680796-r3" x="24.4" y="678.8" textLength="195.2" clip-path="url(#terminal-2189680796-line-27)">Open&#160;Interest&#160;&#160;&#160;</text><text class="terminal-2189680796-r9" x="256.2" y="678.8" textLength="85.4" clip-path="url(#terminal-2189680796-line-27)">BULLISH</text><text class="terminal-2189680796-r1" x="414.8" y="678.8" textLength="85.4" clip-path="url(#terminal-2189680796-line-27)">&#160;&#160;&#160;&#160;62%</text><text class="terminal-2189680796-r1" x="536.8" y="678.8" textLength="780.8" clip-path="url(#terminal-2189680796-line-27)">Rising&#160;price&#160;(+1.55%)&#160;alongside&#160;rising&#160;open&#160;interest&#160;suggests&#160;&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="678.8" textLength="12.2" clip-path="url(#terminal-2189680796-line-27)">
+</text><text class="terminal-2189680796-r1" x="536.8" y="703.2" textLength="780.8" clip-path="url(#terminal-2189680796-line-28)">new&#160;longs&#160;are&#160;entering&#160;the&#160;market,&#160;ind…&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="703.2" textLength="12.2" clip-path="url(#terminal-2189680796-line-28)">
+</text><text class="terminal-2189680796-r1" x="1342" y="727.6" textLength="12.2" clip-path="url(#terminal-2189680796-line-29)">
+</text><text class="terminal-2189680796-r3" x="24.4" y="752" textLength="195.2" clip-path="url(#terminal-2189680796-line-30)">Technical&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r9" x="256.2" y="752" textLength="85.4" clip-path="url(#terminal-2189680796-line-30)">BULLISH</text><text class="terminal-2189680796-r1" x="414.8" y="752" textLength="85.4" clip-path="url(#terminal-2189680796-line-30)">&#160;&#160;&#160;&#160;65%</text><text class="terminal-2189680796-r1" x="536.8" y="752" textLength="780.8" clip-path="url(#terminal-2189680796-line-30)">Price&#160;is&#160;trading&#160;above&#160;both&#160;EMA20&#160;and&#160;EMA50&#160;with&#160;a&#160;bullish&#160;EMA&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="752" textLength="12.2" clip-path="url(#terminal-2189680796-line-30)">
+</text><text class="terminal-2189680796-r1" x="536.8" y="776.4" textLength="780.8" clip-path="url(#terminal-2189680796-line-31)">crossover&#160;alignment,&#160;and&#160;RSI&#160;at&#160;54.8&#160;…&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="776.4" textLength="12.2" clip-path="url(#terminal-2189680796-line-31)">
+</text><text class="terminal-2189680796-r1" x="1342" y="800.8" textLength="12.2" clip-path="url(#terminal-2189680796-line-32)">
+</text><text class="terminal-2189680796-r3" x="24.4" y="825.2" textLength="195.2" clip-path="url(#terminal-2189680796-line-33)">Sentiment&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r9" x="256.2" y="825.2" textLength="85.4" clip-path="url(#terminal-2189680796-line-33)">BULLISH</text><text class="terminal-2189680796-r1" x="414.8" y="825.2" textLength="85.4" clip-path="url(#terminal-2189680796-line-33)">&#160;&#160;&#160;&#160;62%</text><text class="terminal-2189680796-r1" x="536.8" y="825.2" textLength="780.8" clip-path="url(#terminal-2189680796-line-33)">ETH&#160;shows&#160;resilient&#160;sentiment&#160;with&#160;89.6%&#160;community&#160;bullish&#160;votes</text><text class="terminal-2189680796-r1" x="1342" y="825.2" textLength="12.2" clip-path="url(#terminal-2189680796-line-33)">
+</text><text class="terminal-2189680796-r1" x="536.8" y="849.6" textLength="780.8" clip-path="url(#terminal-2189680796-line-34)">and&#160;a&#160;+4.41%&#160;24h&#160;gain&#160;despite&#160;a&#160;mar…&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="849.6" textLength="12.2" clip-path="url(#terminal-2189680796-line-34)">
+</text><text class="terminal-2189680796-r1" x="1342" y="874" textLength="12.2" clip-path="url(#terminal-2189680796-line-35)">
+</text><text class="terminal-2189680796-r1" x="1342" y="898.4" textLength="12.2" clip-path="url(#terminal-2189680796-line-36)">
+</text><text class="terminal-2189680796-r5" x="597.8" y="922.8" textLength="36.6" clip-path="url(#terminal-2189680796-line-37)">SOL</text><text class="terminal-2189680796-r6" x="658.8" y="922.8" textLength="73.2" clip-path="url(#terminal-2189680796-line-37)">$87.33</text><text class="terminal-2189680796-r1" x="1342" y="922.8" textLength="12.2" clip-path="url(#terminal-2189680796-line-37)">
+</text><text class="terminal-2189680796-r1" x="1342" y="947.2" textLength="12.2" clip-path="url(#terminal-2189680796-line-38)">
+</text><text class="terminal-2189680796-r7" x="24.4" y="971.6" textLength="195.2" clip-path="url(#terminal-2189680796-line-39)">Analyst&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r7" x="256.2" y="971.6" textLength="122" clip-path="url(#terminal-2189680796-line-39)">Signal&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r7" x="414.8" y="971.6" textLength="85.4" clip-path="url(#terminal-2189680796-line-39)">&#160;&#160;&#160;Conf</text><text class="terminal-2189680796-r7" x="536.8" y="971.6" textLength="780.8" clip-path="url(#terminal-2189680796-line-39)">Reasoning&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="971.6" textLength="12.2" clip-path="url(#terminal-2189680796-line-39)">
+</text><text class="terminal-2189680796-r3" x="0" y="996" textLength="1342" clip-path="url(#terminal-2189680796-line-40)">&#160;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━&#160;</text><text class="terminal-2189680796-r1" x="1342" y="996" textLength="12.2" clip-path="url(#terminal-2189680796-line-40)">
+</text><text class="terminal-2189680796-r3" x="24.4" y="1020.4" textLength="195.2" clip-path="url(#terminal-2189680796-line-41)">Funding&#160;Rate&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r8" x="256.2" y="1020.4" textLength="85.4" clip-path="url(#terminal-2189680796-line-41)">NEUTRAL</text><text class="terminal-2189680796-r1" x="414.8" y="1020.4" textLength="85.4" clip-path="url(#terminal-2189680796-line-41)">&#160;&#160;&#160;&#160;55%</text><text class="terminal-2189680796-r1" x="536.8" y="1020.4" textLength="780.8" clip-path="url(#terminal-2189680796-line-41)">The&#160;annualized&#160;funding&#160;rate&#160;of&#160;0.87%&#160;falls&#160;squarely&#160;within&#160;the&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="1020.4" textLength="12.2" clip-path="url(#terminal-2189680796-line-41)">
+</text><text class="terminal-2189680796-r1" x="536.8" y="1044.8" textLength="780.8" clip-path="url(#terminal-2189680796-line-42)">neutral/normal&#160;carry&#160;range&#160;(-10%&#160;to&#160;+…&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="1044.8" textLength="12.2" clip-path="url(#terminal-2189680796-line-42)">
+</text><text class="terminal-2189680796-r1" x="1342" y="1069.2" textLength="12.2" clip-path="url(#terminal-2189680796-line-43)">
+</text><text class="terminal-2189680796-r3" x="24.4" y="1093.6" textLength="195.2" clip-path="url(#terminal-2189680796-line-44)">Open&#160;Interest&#160;&#160;&#160;</text><text class="terminal-2189680796-r8" x="256.2" y="1093.6" textLength="85.4" clip-path="url(#terminal-2189680796-line-44)">NEUTRAL</text><text class="terminal-2189680796-r1" x="414.8" y="1093.6" textLength="85.4" clip-path="url(#terminal-2189680796-line-44)">&#160;&#160;&#160;&#160;50%</text><text class="terminal-2189680796-r1" x="536.8" y="1093.6" textLength="780.8" clip-path="url(#terminal-2189680796-line-44)">Price&#160;is&#160;essentially&#160;flat&#160;(+0.13%)&#160;with&#160;negligible&#160;directional&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="1093.6" textLength="12.2" clip-path="url(#terminal-2189680796-line-44)">
+</text><text class="terminal-2189680796-r1" x="536.8" y="1118" textLength="780.8" clip-path="url(#terminal-2189680796-line-45)">conviction,&#160;making&#160;it&#160;difficult&#160;to&#160;cl…&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="1118" textLength="12.2" clip-path="url(#terminal-2189680796-line-45)">
+</text><text class="terminal-2189680796-r1" x="1342" y="1142.4" textLength="12.2" clip-path="url(#terminal-2189680796-line-46)">
+</text><text class="terminal-2189680796-r3" x="24.4" y="1166.8" textLength="195.2" clip-path="url(#terminal-2189680796-line-47)">Technical&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r8" x="256.2" y="1166.8" textLength="85.4" clip-path="url(#terminal-2189680796-line-47)">NEUTRAL</text><text class="terminal-2189680796-r1" x="414.8" y="1166.8" textLength="85.4" clip-path="url(#terminal-2189680796-line-47)">&#160;&#160;&#160;&#160;52%</text><text class="terminal-2189680796-r1" x="536.8" y="1166.8" textLength="780.8" clip-path="url(#terminal-2189680796-line-47)">Price&#160;is&#160;caught&#160;between&#160;EMA20&#160;resistance&#160;($87.57)&#160;and&#160;EMA50&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="1166.8" textLength="12.2" clip-path="url(#terminal-2189680796-line-47)">
+</text><text class="terminal-2189680796-r1" x="536.8" y="1191.2" textLength="780.8" clip-path="url(#terminal-2189680796-line-48)">support&#160;($86.75)&#160;with&#160;RSI&#160;at&#160;41.4&#160;sugges…&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="1191.2" textLength="12.2" clip-path="url(#terminal-2189680796-line-48)">
+</text><text class="terminal-2189680796-r1" x="1342" y="1215.6" textLength="12.2" clip-path="url(#terminal-2189680796-line-49)">
+</text><text class="terminal-2189680796-r3" x="24.4" y="1240" textLength="195.2" clip-path="url(#terminal-2189680796-line-50)">Sentiment&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r9" x="256.2" y="1240" textLength="85.4" clip-path="url(#terminal-2189680796-line-50)">BULLISH</text><text class="terminal-2189680796-r1" x="414.8" y="1240" textLength="85.4" clip-path="url(#terminal-2189680796-line-50)">&#160;&#160;&#160;&#160;62%</text><text class="terminal-2189680796-r1" x="536.8" y="1240" textLength="780.8" clip-path="url(#terminal-2189680796-line-50)">Despite&#160;a&#160;market-wide&#160;Fear&#160;reading&#160;of&#160;32,&#160;SOL&#160;community&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="1240" textLength="12.2" clip-path="url(#terminal-2189680796-line-50)">
+</text><text class="terminal-2189680796-r1" x="536.8" y="1264.4" textLength="780.8" clip-path="url(#terminal-2189680796-line-51)">sentiment&#160;is&#160;strongly&#160;bullish&#160;at&#160;80%&#160;with&#160;po…&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2189680796-r1" x="1342" y="1264.4" textLength="12.2" clip-path="url(#terminal-2189680796-line-51)">
+</text><text class="terminal-2189680796-r1" x="1342" y="1288.8" textLength="12.2" clip-path="url(#terminal-2189680796-line-52)">
+</text><text class="terminal-2189680796-r1" x="1342" y="1313.2" textLength="12.2" clip-path="url(#terminal-2189680796-line-53)">
+</text>
+    </g>
+    </g>
+</svg>
